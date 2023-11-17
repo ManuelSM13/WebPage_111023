@@ -1,0 +1,43 @@
+{
+    "_comment":"It's just a testing comment...",
+    "name": "PWA", 
+    "short_name": "PWA",
+    "description": "A testing for a basic PWA",
+    "background-color": "#FFF",
+    "theme-color": "#BBA9BB",
+    "orientation": "portrait",
+    "display": "standalone",
+    "star_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+
+    "icons": [
+        {
+            "src": "./Images/icons/icono_16.ico",
+            "size": "16x16",
+            "type": "img/ico"
+        },
+        {
+            "src": "./Images/icons/icono_32.ico",
+            "size": "32x32",
+            "type": "img/ico"
+        },
+        {
+            "src": "./Images/icons/icono_64.ico",
+            "size": "64x64",
+            "type": "img/ico"
+        },
+        {
+            "src": "./Images/icons/icono_128.ico",
+            "size": "128x128",
+            "type": "img/ico"
+        },
+        {
+            "src": "./Images/icons/icono_256.ico",
+            "size": "256x256",
+            "type": "img/ico"
+        }
+    ]
+
+
+}
